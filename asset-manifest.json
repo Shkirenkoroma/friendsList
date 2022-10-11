@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/friendsList/static/css/main.cd5d95a0.css",
+    "main.js": "/friendsList/static/js/main.463d16d5.js",
+    "index.html": "/friendsList/index.html",
+    "main.cd5d95a0.css.map": "/friendsList/static/css/main.cd5d95a0.css.map",
+    "main.463d16d5.js.map": "/friendsList/static/js/main.463d16d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd5d95a0.css",
+    "static/js/main.463d16d5.js"
+  ]
+}
