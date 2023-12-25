@@ -1,4 +1,5 @@
-### Live-версия доступна по ссылке https://shkirenkoroma.github.io/friendsList/
+#### Live-версия доступна по ссылке: https://shkirenkoroma.github.io/friendsList/
+
 Приложение для создания комплексной рассылки сообщений
 ![image](https://user-images.githubusercontent.com/61347452/228729022-1e93463a-7e60-417f-9b63-c0b9b7190db1.png)
 ![image](https://user-images.githubusercontent.com/61347452/228729144-4419df95-0ea5-41cc-a0b4-f6bd67372a9f.png)
